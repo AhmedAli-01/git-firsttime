@@ -1,0 +1,1 @@
+ls=show me the list of items in this folder

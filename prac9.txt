@@ -1,0 +1,1 @@
+echo=whrite in. git status=shows you different statug.
